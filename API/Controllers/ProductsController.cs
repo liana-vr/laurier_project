@@ -10,8 +10,8 @@ using Core.Specifications;
 using AutoMapper;
 using API.Errors;
 using Microsoft.AspNetCore.Http;
-using API.DTOs;
 using API.Helpers;
+using API.Dtos;
 
 namespace API.Controllers
 {
@@ -39,7 +39,7 @@ namespace API.Controllers
         {
             var spec = new ProductsWithTypesAndBrandsSpecification(productParams);
 
-            var countSpec = new ProductWithFiltersForCountSpecification(productParams);
+            var countSpec = new ProductsWithFiltersForCountSpecification(productParams);
 
             var totalItems = await _productsRepo.CountAsync(countSpec);
 
