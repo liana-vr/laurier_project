@@ -1,14 +1,15 @@
 .cart-no{
     position: absolute;
-    min-height: 25px;
-    min-width: 25px;
+    min-height: 27px;
+    min-width: 27px;
     border-radius: 50%;
     font-size: 1em;
     background: rgb(221, 118, 190);
     color: white;
     text-align: center;
-    top: -12px;
-    right: 32px;
+    padding-top: 3px;
+    top: -3px;
+    right: 40px;
 }
 
 a {
@@ -24,4 +25,7 @@ a {
     &:focus{
         outline: none;
     }
+}
+.cartText{
+    margin-right: 5em;
 }
