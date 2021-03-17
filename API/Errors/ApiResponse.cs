@@ -17,10 +17,10 @@ namespace API.Errors
         {
             return statusCode switch
             {
-                400 => "Oh no! This is a Bad Request 💔",
-                401 => "Unauthorized 🚫",
-                404 => "We can't find it anywhere 😭",
-                500 => "An Error occured 👾",
+                400 => "Oh no! This is a Bad Request",
+                401 => "Unauthorized",
+                404 => "We can't find it anywhere",
+                500 => "An Error occured",
                 _ => null
             };
         }
