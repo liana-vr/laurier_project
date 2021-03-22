@@ -1,26 +1,4 @@
-.cart-no{
-    position: absolute;
-    min-height: 27px;
-    min-width: 27px;
-    border-radius: 50%;
-    font-size: 1em;
-    background: rgb(221, 118, 190);
-    color: white;
-    text-align: center;
-    padding-top: 3px;
-    top: -3px;
-    right: 40px;
-    margin-top: 1em;
-}
 
-a {
-    text-decoration: none;
-    color: #3d448a;
-
-    &.active {
-        color: palevioletred;
-    }
-}
 .logo{
     cursor: pointer;
     &:focus{
@@ -31,3 +9,27 @@ a {
     margin-right: 5em;
     margin-top: 1em;
 }
+
+a {
+    text-decoration: none;
+    color: #929292;
+
+    &.active {
+        color: rgb(0, 0, 0);
+    }
+}
+.cart-no{
+    position: absolute;
+    min-height: 27px;
+    min-width: 27px;
+    border-radius: 50%;
+    font-size: 1em;
+    background: rgb(0, 0, 0);
+    color: white;
+    text-align: center;
+    padding-top: 3px;
+    top: -3px;
+    right: 40px;
+    margin-top: 1em;
+}
+

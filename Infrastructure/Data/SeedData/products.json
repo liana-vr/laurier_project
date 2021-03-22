@@ -1,146 +1,442 @@
 [
   {
-    "Name": "Angular Speedster Board 2000",
+    "Name": "Act + Acre Hair Mask",
     "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 200,
-    "PictureUrl": "images/products/sb-ang1.png",
+    "Price": 34,
+    "PictureUrl": "images/products/Beauty/actAcre_hairMask.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 1
   },
   {
-    "Name": "Green Angular Board 3000",
+    "Name": "Chanel La Crème Main",
     "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 150,
-    "PictureUrl": "images/products/sb-ang2.png",
+    "Price": 56,
+    "PictureUrl": "images/products/Beauty/ChanelCream.jpg",
     "ProductTypeId": 1,
-    "ProductBrandId": 1
+    "ProductBrandId": 3
   },
   {
-    "Name": "Core Board Speed Rush 3",
+    "Name": "Curology Starter Set",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/sb-core1.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Net Core Super Board",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 300,
-    "PictureUrl": "images/products/sb-core2.png",
-    "ProductTypeId": 1,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "React Board Super Whizzy Fast",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 250,
-    "PictureUrl": "images/products/sb-react1.png",
+    "Price": 45,
+    "PictureUrl": "images/products/Beauty/curology-set.jpg",
     "ProductTypeId": 1,
     "ProductBrandId": 4
   },
   {
-    "Name": "Typescript Entry Board",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 120,
-    "PictureUrl": "images/products/sb-ts1.png",
+    "Name": "Diptyque Baume Généreux",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 46,
+    "PictureUrl": "images/products/Beauty/diptypueCream.jpg",
     "ProductTypeId": 1,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Grown Alchemist Day Cream",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 37,
+    "PictureUrl": "images/products/Beauty/grown_alchemist_dayCream.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Handmade Soaps Rose",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 6,
+    "PictureUrl": "images/products/Beauty/handmade_soaps.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "Handmade Soaps Set",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 15.99,
+    "PictureUrl": "images/products/Beauty/handMadeSoap.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 11
+  },
+  {
+    "Name": "Laurier Hand Cleansing Gel",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 7.99,
+    "PictureUrl": "images/products/Beauty/homeBrand_handSanitiser.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Kálos Mist Congeniality",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 8,
+    "PictureUrl": "images/products/Beauty/kalos_mist.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 13
+  },
+  {
+    "Name": "Le Labo Hand Pomade",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 45,
+    "PictureUrl": "images/products/Beauty/LeLabo_handCream.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 17
+  },
+  {
+    "Name": "Psychedelicacy cleanser",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 27,
+    "PictureUrl": "images/products/Beauty/psychedelicacy_cleanser.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 25
+  },
+  {
+    "Name": "Pearlessence Aloe + Rosewater",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 15,
+    "PictureUrl": "images/products/Beauty/RoseWaterFaceSpray.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 24
+  },
+  {
+    "Name": "Vit C Eye Cream",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 29,
+    "PictureUrl": "images/products/Beauty/vit_C_EyeCream.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Vit C Serum",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 24,
+    "PictureUrl": "images/products/Beauty/Vit_C_Serum.jpg",
+    "ProductTypeId": 1,
+    "ProductBrandId": 32
+  },
+  {
+    "Name": "Bleu De Chanel",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 129,
+    "PictureUrl": "images/products/Fragrance/BleuDeChanel.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Chanel Coco Noir",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 125,
+    "PictureUrl": "images/products/Fragrance/ChanelCocoNoir.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Chanel No.5",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 87,
+    "PictureUrl": "images/products/Fragrance/ChanelNo5.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Comme des Garçons Copper",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 117,
+    "PictureUrl": "images/products/Fragrance/CommeDesGarconsCopper.jpg",
+    "ProductTypeId": 2,
     "ProductBrandId": 5
   },
   {
-    "Name": "Core Blue Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 10,
-    "PictureUrl": "images/products/hat-core1.png",
+    "Name": "Diptyque Doson",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 147,
+    "PictureUrl": "images/products/Fragrance/Diptyque.jpg",
     "ProductTypeId": 2,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Guerlain Aqua Allegoria",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 138,
+    "PictureUrl": "images/products/Fragrance/Guerlain.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 10
+  },
+  {
+    "Name": "Lanvin Modern Princess",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 95,
+    "PictureUrl": "images/products/Fragrance/Lanvin.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 16
+  },
+  {
+    "Name": "Marc Jacobs Daisy",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 65,
+    "PictureUrl": "images/products/Fragrance/MarcJacobsDaisy.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "Marc Jacobs Decadence",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 72,
+    "PictureUrl": "images/products/Fragrance/MarcJacobsDecadence.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 19
+  },
+  {
+    "Name": "Miu Miu L’Eau Bleue Eau De Parfum",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 79,
+    "PictureUrl": "images/products/Fragrance/MiuMiu.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 21
+  },
+  {
+    "Name": "Versace Eros",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 87,
+    "PictureUrl": "images/products/Fragrance/VersaceEros.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 30
+  },
+  {
+    "Name": "Victor & Rolf Flower Bomb",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 109,
+    "PictureUrl": "images/products/Fragrance/victor&Rolf_FlowerBomb.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 31
+  },
+  {
+    "Name": "YSL Black Opium",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 128,
+    "PictureUrl": "images/products/Fragrance/YSL_blackOpium.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "YSL Y Eau De Toilette",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 132,
+    "PictureUrl": "images/products/Fragrance/YSL_perfume.jpg",
+    "ProductTypeId": 2,
+    "ProductBrandId": 34
+  },
+  {
+    "Name": "Brennan Michael Soy Candle",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 22,
+    "PictureUrl": "images/products/Home/brennanMichael_candle.jpg",
+    "ProductTypeId": 3,
     "ProductBrandId": 2
   },
   {
-    "Name": "Green React Woolen Hat",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 8,
-    "PictureUrl": "images/products/hat-react1.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Purple React Woolen Hat",
-    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 15,
-    "PictureUrl": "images/products/hat-react2.png",
-    "ProductTypeId": 2,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Blue Code Gloves",
-    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
-    "Price": 18,
-    "PictureUrl": "images/products/glove-code1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Green Code Gloves",
+    "Name": "Diptyque Figuier Candle",
     "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 15,
-    "PictureUrl": "images/products/glove-code2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 3
-  },
-  {
-    "Name": "Purple React Gloves",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
-    "Price": 16,
-    "PictureUrl": "images/products/glove-react1.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Green React Gloves",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 14,
-    "PictureUrl": "images/products/glove-react2.png",
-    "ProductTypeId": 4,
-    "ProductBrandId": 4
-  },
-  {
-    "Name": "Redis Red Boots",
-    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 250,
-    "PictureUrl": "images/products/boot-redis1.png",
+    "Price": 65,
+    "PictureUrl": "images/products/Home/diptyque_candle.jpg",
     "ProductTypeId": 3,
     "ProductBrandId": 6
   },
   {
-    "Name": "Core Red Boots",
-    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
-    "Price": 189.99,
-    "PictureUrl": "images/products/boot-core2.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Core Purple Boots",
-    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
-    "Price": 199.99,
-    "PictureUrl": "images/products/boot-core1.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 2
-  },
-  {
-    "Name": "Angular Purple Boots",
-    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
-    "Price": 150,
-    "PictureUrl": "images/products/boot-ang2.png",
-    "ProductTypeId": 3,
-    "ProductBrandId": 1
-  },
-  {
-    "Name": "Angular Blue Boots",
+    "Name": "Dry Hay No.1 Scented Candle",
     "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
-    "Price": 180,
-    "PictureUrl": "images/products/boot-ang1.png",
+    "Price": 25,
+    "PictureUrl": "images/products/Home/dryhay_no1_candle.jpg",
     "ProductTypeId": 3,
-    "ProductBrandId": 1
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Laurier Hand Ceramic Vase",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 30.99,
+    "PictureUrl": "images/products/Home/home_brand_ceramic_vase.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Laurier Copper Water Canister",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 27,
+    "PictureUrl": "images/products/Home/home_brand_copper_water_canister.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Laurier Large Planter",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 65,
+    "PictureUrl": "images/products/Home/home_brand_face_line_planter.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Laurier Glass Vase",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 45,
+    "PictureUrl": "images/products/Home/home_brand_glass_vase.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Laurier White Ceramic Set",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 87,
+    "PictureUrl": "images/products/Home/home_brand_white_ceramic_set.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Laurier Wonden Planter",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 56,
+    "PictureUrl": "images/products/Home/home_brand_wooden_Planter.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Laurier Porcelain Vase",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 89,
+    "PictureUrl": "images/products/Home/home_brand_porcelain_vase.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Mitzie Surface Cleaner",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 8,
+    "PictureUrl": "images/products/Home/Mitzie_surfaceSpray.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 20
+  },
+  {
+    "Name": "Nudesse Overose Candle",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 45,
+    "PictureUrl": "images/products/Home/nudesse_candle.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 23
+  },
+  {
+    "Name": "Soja & Co Candle",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 27,
+    "PictureUrl": "images/products/Home/soja_candle.jpg",
+    "ProductTypeId": 3,
+    "ProductBrandId": 26
+  },
+  {
+    "Name": "Everyday Humans Sunscreen",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 12,
+    "PictureUrl": "images/products/Wellness/everyday_humans_sunscreen.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 8
+  },
+  {
+    "Name": "Hella Co. Hair Treatment Set",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 56,
+    "PictureUrl": "images/products/Wellness/hellaCo_hairTreatment.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 9
+  },
+  {
+    "Name": "Laurier Spirulina",
+    "Description": "Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 6,
+    "PictureUrl": "images/products/Wellness/home_brand_green_juice.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Laurier Green Juice",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 6,
+    "PictureUrl": "images/products/Wellness/home_brand_spirulina.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Laurier Organic Toothbrush",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 4,
+    "PictureUrl": "images/products/Wellness/homeBrand_organic_toothbrush.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 14
+  },
+  {
+    "Name": "Lake & Oak Mega Matcha",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa.",
+    "Price": 15,
+    "PictureUrl": "images/products/Wellness/lakeOak_megaMatcha.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "Lake & Oak Sun Milk",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 15,
+    "PictureUrl": "images/products/Wellness/lakeOak_sunMylk.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 15
+  },
+  {
+    "Name": "Magic Mind Matcha Shot",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 4,
+    "PictureUrl": "images/products/Wellness/magicMind_matcha_shot.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "Magic Mind Matcha Set",
+    "Description": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Proin pharetra nonummy pede. Mauris et orci.",
+    "Price": 12,
+    "PictureUrl": "images/products/Wellness/magicMind_matcha_set.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 18
+  },
+  {
+    "Name": "Native Charcoal Toothpaste",
+    "Description": "Aenean nec lorem. In porttitor. Donec laoreet nonummy augue.",
+    "Price": 6,
+    "PictureUrl": "images/products/Wellness/native_toothpaste.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 22
+  },
+  {
+    "Name": "Supply Body Lotion",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 37,
+    "PictureUrl": "images/products/Wellness/supply_bodyLotion.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 27
+  },
+  {
+    "Name": "Valley Isle Kombucha",
+    "Description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Maecenas porttitor congue massa. Fusce posuere, magna sed pulvinar ultricies, purus lectus malesuada libero, sit amet commodo magna eros quis urna.",
+    "Price": 5,
+    "PictureUrl": "images/products/Wellness/valleyIsle_kombucha.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 28
+  },
+  {
+    "Name": "Verde Wellness Shots",
+    "Description": "Nunc viverra imperdiet enim. Fusce est. Vivamus a tellus.",
+    "Price": 8,
+    "PictureUrl": "images/products/Wellness/verde_wellness_shots.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 29
+  },
+  {
+    "Name": "Yuzu Sparkling",
+    "Description": "Suspendisse dui purus, scelerisque at, vulputate vitae, pretium mattis, nunc. Mauris eget neque at sem venenatis eleifend. Ut nonummy.",
+    "Price": 9.5,
+    "PictureUrl": "images/products/Wellness/yuzu_sparkling.jpg",
+    "ProductTypeId": 4,
+    "ProductBrandId": 33
   }
 ]

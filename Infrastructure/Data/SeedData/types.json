@@ -1,18 +1,18 @@
 [
   {
     "Id": 1,
-    "Name": "Boards"
+    "Name": "Beauty"
   },
   {
     "Id": 2,
-    "Name": "Hats"
+    "Name": "Fragrance"
   },
   {
     "Id": 3,
-    "Name": "Boots"
+    "Name": "Home"
   },
   {
     "Id": 4,
-    "Name": "Gloves"
+    "Name": "Wellness"
   }
 ]

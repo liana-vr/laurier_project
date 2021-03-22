@@ -5,3 +5,22 @@
 .list-group-item{
     cursor: pointer;
 }
+
+.brands{
+    height: 20em;
+    overflow: scroll;
+    overflow-x: hidden;
+}
+
+button.btn{
+    outline: none;
+    &:focus{
+        outline: none;
+    }
+    &:active {
+        outline: none;
+    }
+    &.active:focus {
+        outline: none;
+    }
+}

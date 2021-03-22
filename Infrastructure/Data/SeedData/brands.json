@@ -1,26 +1,138 @@
 [
   {
     "Id": 1,
-    "Name": "Angular"
+    "Name": "Act + Acre"
   },
   {
     "Id": 2,
-    "Name": "NetCore"
+    "Name": "Brennan Michael"
   },
   {
     "Id": 3,
-    "Name": "VS Code"
+    "Name": "Chanel"
   },
   {
     "Id": 4,
-    "Name": "React"
+    "Name": "Curology"
   },
   {
     "Id": 5,
-    "Name": "Typescript"
+    "Name": "Comme des Garçons"
   },
   {
     "Id": 6,
-    "Name": "Redis"
+    "Name": "Diptyque"
+  },
+  {
+    "Id": 7,
+    "Name": "Dry Hay"
+  },
+  {
+    "Id": 8,
+    "Name": "Everyday Humans"
+  },
+  {
+    "Id": 9,
+    "Name": "Grown Alchemist"
+  },
+  {
+    "Id": 10,
+    "Name": "Guerlain"
+  },
+  {
+    "Id": 11,
+    "Name": "Handmade Soaps"
+  },
+  {
+    "Id": 12,
+    "Name": "Hella Co."
+  },
+  {
+    "Id": 13,
+    "Name": "Kálos"
+  },
+  {
+    "Id": 14,
+    "Name": "Laurier Home Brand"
+  },
+  {
+    "Id": 15,
+    "Name": "Lake & Oak"
+  },
+  {
+    "Id": 16,
+    "Name": "Lanvin"
+  },
+  {
+    "Id": 17,
+    "Name": "Le Labo"
+  },
+  {
+    "Id": 18,
+    "Name": "Magic Mind"
+  },
+  {
+    "Id": 19,
+    "Name": "Marc Jacobs"
+  },
+  {
+    "Id": 20,
+    "Name": "Mitzie"
+  },
+  {
+    "Id": 21,
+    "Name": "Miu Miu"
+  },
+  {
+    "Id": 22,
+    "Name": "Native"
+  },
+  {
+    "Id": 23,
+    "Name": "Nudesse"
+  },
+  {
+    "Id": 24,
+    "Name": "Pearlessence"
+  },
+  {
+    "Id": 25,
+    "Name": "Psychedelicacy"
+  },
+  {
+    "Id": 26,
+    "Name": "Soja & Co"
+  },
+  {
+    "Id": 27,
+    "Name": "Supply"
+  },
+  {
+    "Id": 28,
+    "Name": "Valley Isle"
+  },
+  {
+    "Id": 29,
+    "Name": "Verde"
+  },
+  {
+    "Id": 30,
+    "Name": "Versace"
+  },
+  {
+    "Id": 31,
+    "Name": "Victor & Rolf"
+  },
+  {
+    "Id": 32,
+    "Name": "Vit C"
+  },
+  {
+    "Id": 33,
+    "Name": "Yuzu"
+  },
+  {
+    "Id": 34,
+    "Name": "Yves Saint Laurent"
   }
 ]
