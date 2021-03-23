@@ -1,18 +1,25 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Codystar:wght@300&display=swap');
 .logo{
     cursor: pointer;
     &:focus{
         outline: none;
     }
+    font-family: 'Codystar', cursive;
+    font-size: 3em;
+    font-weight: 100;
+    padding: 3px;
+
+
 }
 .cartText{
     margin-right: 5em;
     margin-top: 1em;
+    color: black !important;
 }
 
 a {
     text-decoration: none;
-    color: #929292;
+    color: #000000;
 
     &.active {
         color: rgb(0, 0, 0);
@@ -32,4 +39,9 @@ a {
     right: 40px;
     margin-top: 1em;
 }
-
+.shop_tag{
+    margin-left: -33em !important;
+}
+.d-flex.flex-column.flex-md-row.align-items-center.justify-content-between.p-1.px-md-4.mb-3.bg-white.fixed-top{
+    background-color:rgba(255, 255, 255, 0.8) !important
+}

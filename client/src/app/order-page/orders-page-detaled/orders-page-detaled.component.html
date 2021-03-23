@@ -1,4 +1,4 @@
-<div class="container mt-5">
+<div class="container" style="margin-top: 150px;">
   <div class="row" *ngIf="order">
     <div class="col-8">
       <h3 class="ml-4">Order# {{order.id}} - {{order.status}}</h3>
@@ -53,7 +53,7 @@
             <strong>{{order.subtotal | currency}}</strong>
           </li>
           <li class="d-flex justify-content-between py-3 border-bottom">
-            <strong class="text-muted">Shipping and handling</strong>
+            <strong class="text-muted">Shipping</strong>
             <strong>{{order.shippingPrice | currency}}</strong>
           </li>
           <li class="d-flex justify-content-between py-3 border-bottom">

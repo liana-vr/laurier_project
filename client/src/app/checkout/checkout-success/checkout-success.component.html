@@ -1,11 +1,12 @@
-<div class="container mt-5">
+<div class="container" style="margin-top: 150px;">
     <div>
         <h2>Thank you for shopping with Laurier! </h2> 
         <h2>Your order is confirmed.</h2>
-        <p>Please allow 2 to 4 working days for order processing. </p>
-        <p class="mb-4">We will let you know as soon as your order has left our warehouse.</p>
+        <p>Please allow 2 to 4 working days for processing. </p>
+        <p class="mb-4">We will let you know when it is on the move.</p>
         <button *ngIf="order" routerLink="/orders/{{order?.id}}" class="btn btn-outline-primary">View Order</button>
         <button *ngIf="!order" routerLink="/orders" class="btn btn-outline-primary">View Order</button>
     </div>
+    <img class="hands" src="assets/images/People/hands.jpg">
 </div>
 
