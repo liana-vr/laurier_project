@@ -1,0 +1,18 @@
+[
+  {
+    "Id": 1,
+    "Name": "Beauty"
+  },
+  {
+    "Id": 2,
+    "Name": "Fragrance"
+  },
+  {
+    "Id": 3,
+    "Name": "Home"
+  },
+  {
+    "Id": 4,
+    "Name": "Wellness"
+  }
+]

@@ -16,7 +16,7 @@
                         [class.active]="type.id === this.shopParams.typeId"
                         [value]="type.id" (click)="onTypeSelected(type.id)">{{type.name}}</li>
                 </ul>
-                <h5 class=" ml-3 mt-5">Brands A-Z</h5>
+                <h5 class=" ml-3 mt-5">Brands</h5>
                 <ul class="list-group mt-3 brands" style="margin-bottom: 50px;">
                     <li class="list-group-item" *ngFor="let brand of brands"
                         [class.active]="brand.id === this.shopParams.brandId"
