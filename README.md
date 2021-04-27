@@ -1,4 +1,4 @@
-# laurier_project
+# Laurier
 
 Laurier is an e-commerce B2C web application I designed and built with the Luxury Goods Consumer in mind. I created a multi-project solution using 
                         **ASP.Net Core** and a single-page client app using **Angular** and **TypeScript**. 
